@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" width="200" />
+  <img src="logo.jpg" width="200" />
 </p>
 # ⚡ Capacitron
 
