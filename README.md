@@ -29,11 +29,7 @@ I design circuits, code microcontrollers, and build embedded systems.
 ---
 
 ### 🚀 Featured Projects
-- [Hydrogen Fuel Cell Controller](#)  
-- [RF433 PT2262 Signal Decoder](#)  
-- [ESP32 Flow Meter with Firebase](#)  
-- [Custom LED Driver Boards](#)
-  
+ 
 ---
 
 ### 🌐 Find Me
