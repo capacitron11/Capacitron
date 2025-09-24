@@ -20,11 +20,13 @@ I design circuits, code microcontrollers, and build embedded systems.
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white)
 ![EasyEDA](https://img.shields.io/badge/EasyEDA-1765F6?style=flat&logoColor=white)
 ![JLCPCB](https://img.shields.io/badge/JLCPCB-00A3E0?style=flat&logoColor=white)
+![Altium](https://img.shields.io/badge/Altium-917F41?style=flat&logo=altiumdesigner&logoColor=white)
 
 ![PIC](https://img.shields.io/badge/PIC%20Microchip-CC0000?style=flat&logo=microchip&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white)
 ![STM8](https://img.shields.io/badge/STM8-004080?style=flat&logo=stmicroelectronics&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
 ---
 
