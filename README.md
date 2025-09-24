@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/USERNAME" width="200" />
+  <img src="https://raw.githubusercontent.com/capacitron/capacitron/main/logo.png" width="200" />
 </p>
 # ⚡ Capacitron
 
