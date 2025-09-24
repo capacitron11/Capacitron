@@ -1,7 +1,7 @@
 <p align="center">
   <img src="logo.jpg" width="200" />
 </p>
-# ⚡ Capacitron
+⚡ Capacitron
 
 **Hardware hacker | PCB alchemist | Living on 3.3V & coffee**
 
