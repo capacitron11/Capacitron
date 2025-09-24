@@ -31,7 +31,7 @@ I design circuits, code microcontrollers, and build embedded systems.
 ---
 
 ### 🚀 Featured Projects
- 
+[![CMT2210/17LH PIC Library](https://img.shields.io/badge/CMT2210%2F17LH-PIC%20Library-blue)](https://github.com/capacitron/cmt2210-17lh-pic-lib) 
 ---
 
 ### 🌐 Find Me
